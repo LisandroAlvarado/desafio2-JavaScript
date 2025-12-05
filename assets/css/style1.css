@@ -1,0 +1,11 @@
+div {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: powderblue;
+}
+
+img {
+    width: 400px;
+}
